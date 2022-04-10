@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zak a 4th year MEng Computer Science student studying at UCL!
+### Hi there 👋 I'm Zak a 1st year foundational artificial intelligence PhD student studying at UCL!
 
 ---
 
@@ -9,4 +9,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipy124" />
 </a>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fzipy124)
+![](https://komarev.com/ghpvc/?username=zipy124)
