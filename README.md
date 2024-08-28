@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zak a 1st year foundational artificial intelligence PhD student studying at UCL!
+### Hi there 👋 I'm Zak a 4th year foundational artificial intelligence PhD student studying at UCL!
 
 ---
 
