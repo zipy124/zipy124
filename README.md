@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Zak a 4th year foundational artificial intelligence PhD student studying at UCL!
+### Hi there 👋 I'm Zak, a 4th year foundational artificial intelligence PhD student studying at UCL!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=100% src="https://readme-typing-svg.demolab.com/?lines=Eat+Climb+Code+Repeat" />
-</a>
+<a href="https://git.io/typing-svg"><img width=100% align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=10B38E&center=true&vCenter=true&width=600&lines=Eat.+Climb.+Code.+GoTo%3A+%22Eat%22" alt="Typing SVG" /></a>
 
 ---
 
