@@ -3,10 +3,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zipy124&?count_private=true&include_all_commits=true&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zipy124&?count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipy124" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipy124&layout=donut&theme=codeSTACKr" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=zipy124)
