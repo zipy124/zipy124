@@ -12,3 +12,7 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=zipy124)
+
+If you can't find the code you're looking for here, try at my other git forges at:
+https://sr.ht/~zak_morgan/
+https://codeberg.org/zak_morgan
